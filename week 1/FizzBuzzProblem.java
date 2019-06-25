@@ -1,4 +1,4 @@
-class FizzBuzzProblem{
+class Solution {
     public List<String> fizzBuzz(int n) {
         
         // loop through 1 to n

@@ -1,4 +1,4 @@
-class SortArrayByParity{
+class Solution {
     public int[] sortArrayByParity(int[] A) {
         
         // loop through the array

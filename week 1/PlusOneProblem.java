@@ -1,4 +1,4 @@
-class PlusOne{
+class Solution {
     public int[] plusOne(int[] digits) {
         
         // Loop through the digits array

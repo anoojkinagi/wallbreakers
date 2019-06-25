@@ -1,4 +1,4 @@
-class PowerOfTwoProblem{
+class Solution {
     public boolean isPowerOfTwo(int n) {
         
         // keep checking if the number is divisible by 2 ( n %2 == 0)
